@@ -1,6 +1,5 @@
 marvel_env
 .env
 __pycache__
-requirements.txt
 migrations
 image_cache.sqlite
